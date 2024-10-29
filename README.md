@@ -2,7 +2,7 @@
 
 A Python-based desktop application designed to help students organize their tasks, assignments, and study schedules effectively.
 
-![Student Study Planner Screenshot]([https://placeholder-for-screenshot.com/student-planner-screenshot.png](https://github.com/Yesh2344/Student-Planner/blob/main/student_planner_picture.png))
+![Student Study Planner Screenshot][https://github.com/Yesh2344/Student-Planner/blob/main/student_planner_picture.png]
 
 ## Features
 
