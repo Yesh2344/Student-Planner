@@ -1,97 +1,56 @@
-Student Study Planner
+# Student Study Planner
 
-A simple and effective task management tool for students, built using Python and Tkinter. This application helps students organize their tasks, set due dates, assign categories and priorities, mark tasks as completed, and export their tasks to a CSV file for easy tracking.
+A Python-based desktop application designed to help students organize their tasks, assignments, and study schedules effectively.
 
-Features
+![Student Study Planner Screenshot](https://placeholder-for-screenshot.com/student-planner-screenshot.png)
 
-Add Tasks: Create tasks with a name, due date, category, and priority.
+## Features
 
-Mark as Completed: Mark tasks as completed when finished.
+- ✅ Task Management: Add, view, and complete tasks
+- 📅 Due Date Tracking: Set and monitor due dates for each task
+- 🏷️ Categorization: Organize tasks into categories (Homework, Project, Exam, Other)
+- 🚩 Priority Setting: Assign priority levels (High, Medium, Low) to tasks
+- ✔️ Task Completion: Mark tasks as completed
+- 💾 Data Persistence: Tasks are saved automatically and loaded on startup
+- 📊 CSV Export: Export your task list to a CSV file for external use
+- 🔔 Notification System: Receive reminders for upcoming tasks
 
-View Tasks: Tasks are displayed with details like due date, category, priority, and whether they are overdue or completed.
+## Installation
 
-Notifications: Get reminders for tasks that are due within the next day.
+1. Ensure you have Python 3.x installed on your system.
+2. Clone this repository:
+   ```
+   git clone https://github.com/yourusername/student-study-planner.git
+   cd student-study-planner
+   ```
+3. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
 
-Export to CSV: Export your tasks to a CSV file for external reference.
+## Usage
 
-Persistent Storage: Tasks are saved locally, so they are available even after restarting the application.
-
-Getting Started
-
-Prerequisites
-
-Python 3.x
-
-Required Python libraries: tkinter, tkcalendar, pickle
-
-To install tkcalendar, run the following command:
-
-pip install tkcalendar
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/study-planner.git
-
-Navigate to the project directory:
-
-cd study-planner
-
-Run the application:
-
+Run the script:
+```
 python student_planner.py
+```
 
-Usage
+## How It Works
 
-Adding a Task: Fill in the task name, select the due date, category, and priority, then click on "Add Task".
+1. **Adding Tasks**: Enter task details and click "Add Task"
+2. **Completing Tasks**: Select a task and click "Complete Task"
+3. **Exporting Tasks**: Click "Export to CSV" to save your tasks
 
-Marking as Completed: Select a task from the list and click on "Complete Task" to mark it as done.
+## Contributing
 
-Exporting Tasks: Click on "Export to CSV" to save the tasks in a CSV file.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-Categories & Priorities
+## License
 
-Categories: Tasks can be categorized as Homework, Project, Exam, or Other.
+This project is open source and available under the [MIT License](LICENSE).
 
-Priorities: Set the priority of the task as High, Medium, or Low.
+## Contact
 
-Notifications
+Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
-The application checks for tasks that are due within the next day and notifies you via a pop-up message.
-
-Files
-
-student_planner.py: The main script that runs the application.
-
-tasks.pkl: Stores the tasks data for persistence.
-
-tasks.csv: A CSV file that contains exported tasks.
-
-Screenshots
-
-
-
-
-Contributing
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature-branch).
-
-Commit your changes (git commit -am 'Add new feature').
-
-Push to the branch (git push origin feature-branch).
-
-Create a new Pull Request.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-
-Thanks to the contributors of the Tkinter and tkcalendar libraries for making GUI development in Python more accessible.
-
-Feel free to contribute, report issues, or suggest new features!
-
+Project Link: [https://github.com/yourusername/student-study-planner](https://github.com/yourusername/student-study-planner)
