@@ -51,6 +51,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Yeswanth Soma - [@Portfolio](https://yeswanthsoma.onrender.com) - yeswanthsoma77@gmail.com
 
 Project Link: [https://github.com/yourusername/student-study-planner](https://github.com/yourusername/student-study-planner)
