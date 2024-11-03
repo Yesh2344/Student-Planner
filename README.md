@@ -41,6 +41,8 @@ python student_planner.py
 2. **Completing Tasks**: Select a task and click "Complete Task"
 3. **Exporting Tasks**: Click "Export to CSV" to save your tasks
 
+Simple Python Script for daily planning the day.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
