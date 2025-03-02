@@ -57,4 +57,4 @@ Yeswanth Soma - [@Portfolio](https://yeswanthsoma.onrender.com) - yeswanthsoma77
 
 Project Link: [https://github.com/yourusername/student-study-planner](https://github.com/yesh2344/student-study-planner)
 
-@Yeswanth Soma All Copyrights 
+@Yeswanth Soma All Copyrights Reserved
