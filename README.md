@@ -55,6 +55,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Yeswanth Soma - [@Portfolio](https://yeswanthsoma.onrender.com) - yeswanthsoma77@gmail.com
 
-Project Link: [https://github.com/yourusername/student-study-planner](https://github.com/yesh2344/student-study-planner)
+Project Link: [https://github.com/yesh2344/student-study-planner](https://github.com/yesh2344/student-study-planner)
 
 @Yeswanth Soma All Copyrights Reserved
