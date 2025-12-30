@@ -71,6 +71,7 @@ def export_to_csv():
     with open('tasks.csv', 'w', newline='') as csvfile:
         fieldnames = ['name', 'due', 'category', 'priority', 'completed']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+# Added comment
         writer.writeheader()
         for task in tasks:
             writer.writerow({'name': task['name'], 'due': task['due'].strftime('%Y-%m-%d'), 'category': task['category'], 'priority': task['priority'], 'completed': task['completed']})
