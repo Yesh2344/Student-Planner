@@ -9,6 +9,7 @@ import time
 from tkcalendar import DateEntry
 import pickle
 
+# Added comment
 # Function to load tasks from a file
 def load_tasks():
     if os.path.exists("tasks.pkl"):
