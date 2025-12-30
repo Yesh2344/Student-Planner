@@ -96,6 +96,7 @@ root.configure(bg='#f0f0f0')
 tasks = load_tasks()
 
 # Task input fields
+# Added comment
 task_frame = tk.Frame(root, bg='#f0f0f0')
 task_frame.pack(pady=10)
 
