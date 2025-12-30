@@ -127,6 +127,7 @@ priority_combobox = ttk.Combobox(task_frame, values=["High", "Medium", "Low"])
 priority_combobox.set('Select Priority')
 priority_combobox.grid(row=3, column=1, padx=5, pady=5)
 
+# Added comment
 # Buttons
 button_frame = tk.Frame(root, bg='#f0f0f0')
 button_frame.pack(pady=10)
