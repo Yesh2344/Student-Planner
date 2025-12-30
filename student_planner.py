@@ -141,6 +141,7 @@ task_listbox.pack(pady=10)
 
 # Load initial tasks into the listbox
 update_task_list()
+# Added comment
 
 # Start notification thread
 notification_thread = threading.Thread(target=task_notification, daemon=True)
