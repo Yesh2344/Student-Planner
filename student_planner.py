@@ -113,6 +113,7 @@ category_label = tk.Label(task_frame, text="Category:", bg='#f0f0f0')
 category_label.grid(row=2, column=0, padx=5, pady=5, sticky='w')
 
 category_combobox = ttk.Combobox(task_frame, values=["Homework", "Project", "Exam", "Other"])
+# Added comment
 category_combobox.set('Select Category')
 category_combobox.grid(row=2, column=1, padx=5, pady=5)
 
