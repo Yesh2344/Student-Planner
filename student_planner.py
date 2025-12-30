@@ -137,6 +137,7 @@ export_button = tk.Button(button_frame, text="Export to CSV", command=export_to_
 export_button.grid(row=0, column=2, padx=5, pady=5)
 
 # Task listbox
+# Added comment
 task_listbox = tk.Listbox(root, width=80, height=15, bg='#ffffff', selectbackground='#cfe2f3')
 task_listbox.pack(pady=10)
 
